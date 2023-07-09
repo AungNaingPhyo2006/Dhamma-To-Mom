@@ -1,0 +1,37 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Cherry_Unicode.ttf",
+      "sha1": "7dd481ac44e03446112bdd64bc39c4ef39066e7b"
+    },
+    {
+      "path": "assets/fonts/Myanmar3_2018.ttf",
+      "sha1": "784f8c0164ac831fbe10675792e7f0b61b571db2"
+    },
+    {
+      "path": "assets/fonts/NotoSansMyanmar-Bold.ttf",
+      "sha1": "040d7008a1f14c42c9f0be508837e5a705d82465"
+    },
+    {
+      "path": "assets/fonts/NotoSansMyanmar-Regular.ttf",
+      "sha1": "d76d956f63e2d6d0aef37cdd5b4becb442aff447"
+    },
+    {
+      "path": "assets/fonts/NotoSansMyanmarUI-Bold.ttf",
+      "sha1": "284830bc67c0fcd6c2c3e265069106cfae9681d5"
+    },
+    {
+      "path": "assets/fonts/NotoSansMyanmarUI-Regular.ttf",
+      "sha1": "a3c5db801acb2695479bfe74132de950e7a8cd1f"
+    },
+    {
+      "path": "assets/fonts/Notosan Myanmar UI Bold.ttf",
+      "sha1": "4c5fc579167085e4f5b4553239c2450f793fba8e"
+    },
+    {
+      "path": "assets/fonts/Pyidaungsu-1.8.3_Regular.ttf",
+      "sha1": "d21fd31fb6a032d6dda3fd929fc71787df0e0fc1"
+    }
+  ]
+}
