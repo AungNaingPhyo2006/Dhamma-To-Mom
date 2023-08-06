@@ -45,18 +45,18 @@ const SplashScreen = () => {
     <View
       style={{
         flex: 1,
-        backgroundColor: 'red',
+        backgroundColor: 'purple',
         justifyContent: 'center',
         alignItems: 'center',
       }}>
-      {/* <Animated.View
+      <Animated.View
         style={{
           transform: [{translateY}],
           // transform: [{scale}],
           // opacity,
         }}>
         <Image
-          source={AssetSource.mom}
+          source={AssetSource.mom1}
           style={{
             width: 90,
             height: 90,
@@ -65,7 +65,8 @@ const SplashScreen = () => {
             borderWidth: 2,
           }}
         />
-      </Animated.View> */}
+      </Animated.View>
+      {/* <=======> */}
       <Animated.Text
         style={{
           fontSize: 18,
@@ -75,7 +76,11 @@ const SplashScreen = () => {
           // transform: [{scale}],
           // opacity,
         }}>
-        Daw Khin Nyo Win
+        {/* Daw Khin Nyo Win */}
+        <Text style={{color: 'white'}}>Daw </Text>
+        <Text style={{color: 'red'}}>Khin </Text>
+        <Text style={{color: 'pink'}}>Nyo </Text>
+        <Text style={{color: 'orange'}}>Win</Text>
       </Animated.Text>
       <Animated.Text
         style={{

@@ -15,5 +15,5 @@ export default {
   sayadaw11: require('../assets/images/uPonnyar.jpeg'),
   sayadaw12: require('../assets/images/kyarNiKan.jpeg'),
   sayadaw13: require('../assets/images/delohh.jpeg'),
-  // mom: require('../assets/images/momom.png'),
+  mom1: require('../assets/images/mom1.png'),
 };

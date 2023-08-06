@@ -94,7 +94,7 @@ export const videoId5 = [
 export const videoId6 = [
   //=====ဖြူး ဆရာတော်======
   'PbetSfcwSR8',
-  'v0iFY03En4s',
+  // 'v0iFY03En4s',
   'ySP4_ZmbuEM',
   'S_W3V2rYWXI',
   '-6HJwJv7Nd8',
@@ -102,7 +102,7 @@ export const videoId6 = [
   'udhePFWZhIk',
   'wfP3WxyaQ5Q',
   '8cen-r9Xn30',
-  'VNV586gj-vU',
+  // 'VNV586gj-vU',
 ];
 export const videoId7 = [
   //=====ဆရာတော် ဦးဇောတိက-မဟာမြိုင်တောရ======
@@ -155,13 +155,13 @@ export const videoId8 = [
   'D8iWvabQsas',
   'nmgd-pGIgxY',
   'J_KyyAHWNkU',
-  //====
+  // //====
   'mr84_O5mI-M',
   'k1RONmjKcJA',
   'QAgBhNUX_40',
   'r_zcY-fNxqE',
   '-ZuZ_ibQ3J4',
-  'mn-rV7KdRQ8',
+  // 'mn-rV7KdRQ8',
 ];
 export const videoId9 = [
   //အရှင်တေဇောသာရ
@@ -198,12 +198,6 @@ export const videoId10 = [
 //မြောက်ဦး ဆရာတော်
 export const videoId11 = [
   '1IO2XdSHCnw',
-  '4poxnOJUa7o',
-  'yMcgTiQhNX0',
-  'TDR7aZ3nls4',
-  'f0501XAC3YU',
-  'Ta8788Ugl4E',
-  'QzIj80TulQA',
   'H62Cn4EPg9Q',
   'ZrShZZsscNA',
   '0DoSlm_m_l4',

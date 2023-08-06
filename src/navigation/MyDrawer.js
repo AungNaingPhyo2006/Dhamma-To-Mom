@@ -26,10 +26,12 @@ import DhammaList from '../screens/home/DhammaList';
 import RefreshIcon from '../components/refresh/RefreshIcon';
 
 const windowWidth = Dimensions.get('window').width;
+const windowHeight = Dimensions.get('window').height;
+
 // <========Custom Drawer Content Component====>
 function CustomDrawerContent({navigation}) {
   return (
-    <DrawerContentScrollView>
+    <DrawerContentScrollView showsVerticalScrollIndicator={false}>
       <View>
         {/* <Text
           style={{
@@ -64,6 +66,14 @@ function CustomDrawerContent({navigation}) {
           label={() => <Text style={styles.labelStyle}>အထွေထွေ</Text>}
           onPress={() => navigation.navigate('General')}
         />
+        <Text
+          style={{
+            marginVertical: windowHeight * 0.3,
+            alignSelf: 'center',
+            color: 'cyan',
+          }}>
+          Developed by Aung Naing Phyo
+        </Text>
       </View>
     </DrawerContentScrollView>
   );
